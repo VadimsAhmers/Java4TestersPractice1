@@ -31,6 +31,10 @@ public class Product {
         this.price = price;
     }
 
+    public double getCost(){
+        return quantity * price;
+    }
+
 
 
 
