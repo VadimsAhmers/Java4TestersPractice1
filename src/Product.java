@@ -1,7 +1,7 @@
 /**
  * Created by Вадим on 18.12.2016.
  */
-public class Product {
+public abstract class Product {
 
     private String title;
     private double price;
